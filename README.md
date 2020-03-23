@@ -12,4 +12,4 @@
 ## My Solutions to DataCamp Projects
 | Project | Description | Skills |
 | --- | --- | --- |
-| [TV, Halftime Shows, and the Big Game](https://github.com/yuchiehkuo/DataCamp-Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game) | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. | Python, Importing & Cleaning Data, Data Manipulation, Data Visulization |
+| [TV, Halftime Shows, and the Big Game](https://github.com/yuchiehkuo/DataCamp-Projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb) | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. | Python, Importing & Cleaning Data, Data Manipulation, Data Visulization |
