@@ -13,3 +13,4 @@
 | Project | Description | Skills |
 | --- | --- | --- |
 | [TV, Halftime Shows, and the Big Game](https://github.com/yuchiehkuo/DataCamp-Projects/blob/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/notebook.ipynb) | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows. | Python, Importing & Cleaning Data, Data Manipulation, Data Visulization |
+| [The Android App Market on Google Play](https://github.com/yuchiehkuo/DataCamp-Projects/blob/master/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb) | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. | Python, Importing & Cleaning Data, Data Manipulation, Data Visulization, Probability & Statistics |
